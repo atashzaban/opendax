@@ -25,7 +25,7 @@ database:
   host: db
   port: 3306
   user: root
-  password: changeme
+  password: PythonExAUKhF5VVnV
 storage:
   provider: Google
   bucketName: opendax-barong-docs-bucket
